@@ -5,7 +5,7 @@ import { Users } from "@/types";
 
 export function useProfile() {
   const [users, setUsers] = useState(usersData);
-  const [profile, setProfile] = useState<Users>(users[0]);
+  const [profile, setProfile] = useState<Users>(users[6]);
 
   const handleUserCharacterChange = (characterId: number) => {
     setProfile({

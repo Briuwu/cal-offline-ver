@@ -87,7 +87,7 @@ export const Game = ({ level, stageId }: Props) => {
     await animate("#boss", { x: -xBossPosition }, { duration: 2 });
     setBossState("attack");
     setCharacterState("hurt");
-    await sleep(1000);
+    await sleep(1250);
     await animate("#boss", { scaleX: -1 }, { duration: 0.5 });
     setCharacterState("idle");
     setBossState("walk");
