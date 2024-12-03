@@ -1,0 +1,1087 @@
+[
+  {
+    "id": 1,
+    "stageId": 1,
+    "type": "learning",
+    "name": "html",
+    "description": "",
+    "questions": null,
+    "levelNumber": 1
+  },
+  {
+    "id": 2,
+    "stageId": 1,
+    "type": "mini-challenge",
+    "name": "html",
+    "description": "",
+    "questions": [
+      {
+        "question": "How to make a title tag for your HTML document inside the head section, use",
+        "answer": "<title></title>",
+        "clue": "<t__l_></t__l_>"
+      },
+      {
+        "question": "To create a heading level 3 with the text Subheading, use",
+        "answer": "<h3></h3>",
+        "clue": "<h_></h_>"
+      },
+      {
+        "question": "What is the correct tag for the largest heading in HTML?",
+        "answer": "<h1></h1>",
+        "clue": "<h_></h_>"
+      },
+      {
+        "question": "To create a division or a container to group elements, use",
+        "answer": "<div></div>",
+        "clue": "<d__></d__>"
+      },
+      {
+        "question": "Which tag is used to create a horizontal line across the page?",
+        "answer": "<hr>",
+        "clue": "<h_>"
+      }
+    ],
+    "levelNumber": 2
+  },
+  {
+    "id": 3,
+    "stageId": 1,
+    "type": "mini-challenge",
+    "name": "html",
+    "description": "",
+    "questions": [
+      {
+        "question": "How to create a paragraph with the text 'Welcome to my website', use",
+        "answer": "<p>Welcome to my website</p>",
+        "clue": "<p>Wel____ __ __ _______</_>"
+      },
+      {
+        "question": "To create a hyperlink that should be underlined, use",
+        "answer": "<a></a>",
+        "clue": "<_></_>"
+      },
+      {
+        "question": "How to make text bold, use the tag",
+        "answer": "<strong></strong>",
+        "clue": "<s__o__></s__o__>"
+      },
+      {
+        "question": "To emphasize text (usually italicized), use the tag",
+        "answer": "<em></em>",
+        "clue": "<e_></e_>"
+      },
+      {
+        "question": "The <br> tag is used to insert a?",
+        "answer": "line break",
+        "clue": "l___ __e_k"
+      }
+    ],
+    "levelNumber": 3
+  },
+  {
+    "id": 5,
+    "stageId": 1,
+    "type": "mini-challenge",
+    "name": "html",
+    "description": "",
+    "questions": [
+      {
+        "question": "To include an image with a source path logo.png, use <img src='__' alt='Company Logo'>",
+        "answer": "logo.png",
+        "clue": "_o__._n_"
+      },
+      {
+        "question": "To create an ordered list, use",
+        "answer": "<ol></ol>",
+        "clue": "<o_></o_>"
+      },
+      {
+        "question": "To create an unordered list (with bullet points), use",
+        "answer": "<ul></ul>",
+        "clue": "<u_></u_>"
+      },
+      {
+        "question": "The tag used to define a list item (within a list) is",
+        "answer": "<li></li>",
+        "clue": "<l_></l_>"
+      },
+      {
+        "question": "What tag is used to make text smaller (like a subscript)?",
+        "answer": "<small></small>",
+        "clue": "<s_a___></s_a___>"
+      }
+    ],
+    "levelNumber": 4
+  },
+  {
+    "id": 6,
+    "stageId": 1,
+    "type": "mini-challenge",
+    "name": "html",
+    "description": "",
+    "questions": [
+      {
+        "question": "To create a table header cell with the text 'Name', use ___ Name ___",
+        "answer": "<th>Name</th>",
+        "clue": "<t_>_a__</t_>"
+      },
+      {
+        "question": "To create a cell in the table with data 'Age', use ___ Age ___ ",
+        "answer": "<td></td>",
+        "clue": "<t_>A__</t_>"
+      },
+      {
+        "question": "What tag defines a table row?",
+        "answer": "<tr></tr>",
+        "clue": "<t_></t_>"
+      },
+      {
+        "question": "The main tag used to create a table is",
+        "answer": "<table></table>",
+        "clue": "<t_b__></t_b__>"
+      },
+      {
+        "question": "To make a table header cell in the table with the text 'Coding is fun'",
+        "answer": "<th>Coding is fun</th>",
+        "clue": "<t_>C______ __ _un</t_>"
+      }
+    ],
+    "levelNumber": 5
+  },
+  {
+    "id": 9,
+    "stageId": 1,
+    "type": "boss",
+    "name": "html",
+    "description": "centipede",
+    "questions": [
+      {
+        "question": "To define a section of your HTML document where you can place the title, use",
+        "answer": "<head></head>",
+        "clue": "<h_a_></h_a_>"
+      },
+      {
+        "question": "To define a heading level 6, use",
+        "answer": "<h6></h6>",
+        "clue": "<h_></h_>"
+      },
+      {
+        "question": "How to create a paragraph, use.",
+        "answer": "<p></p>",
+        "clue": "<_></_>"
+      },
+      {
+        "question": "Fill the blank: To create a link that directs to 'https://www.example.com' and displays 'Visit Example', use <a href='https://www.example.com'>____</a>",
+        "answer": "Visit Example",
+        "clue": "V__i_ __a__l_"
+      },
+      {
+        "question": "To start a list item in an ordered list, use",
+        "answer": "<li></li>",
+        "clue": "<l_></l_>"
+      },
+      {
+        "question": "The tag for inserting an image is",
+        "answer": "<img>",
+        "clue": "<_m_>"
+      },
+      {
+        "question": "What attribute of the <img> tag specifies the alternative text if the image cannot be displayed?",
+        "answer": "alt",
+        "clue": "__t"
+      },
+      {
+        "question": "To add a comment in your HTML (not visible on the webpage), use",
+        "answer": "<!-- -->",
+        "clue": "<!__ ___>"
+      }
+    ],
+    "levelNumber": 6
+  },
+  {
+    "id": 10,
+    "stageId": 1,
+    "type": "reward",
+    "name": "html",
+    "description": "",
+    "questions": null,
+    "levelNumber": 7
+  },
+  {
+    "id": 11,
+    "stageId": 2,
+    "type": "learning",
+    "name": "css",
+    "description": "",
+    "questions": null,
+    "levelNumber": 8
+  },
+  {
+    "id": 12,
+    "stageId": 2,
+    "type": "mini-challenge",
+    "name": "css",
+    "description": "",
+    "questions": [
+      {
+        "question": "How would you change the text color of all paragraph elements to light blue?",
+        "answer": "p { color: lightblue; }",
+        "clue": "p { col__: lig__bl__; }"
+      },
+      {
+        "question": "How would you make the h1 heading have a font size of 24px?",
+        "answer": "h1 { font-size: 24px; }",
+        "clue": "h1 { __nt-_iz_: 24__; }"
+      },
+      {
+        "question": "How would you add background color orange to the ID 'title'?",
+        "answer": "#title { background-color: orange; }",
+        "clue": "_title { __ckg____d-co___: orange; }"
+      },
+      {
+        "question": "How would you style the element with the ID 'main-heading' to have a red color?",
+        "answer": "#main-heading { color: red; }",
+        "clue": "_main-heading { __lo_: __d; }"
+      },
+      {
+        "question": "How would you style the element with the class 'element' to have a green color text?",
+        "answer": ".element { color: green; }",
+        "clue": "_ele____ { _o___: _r__n; }"
+      }
+    ],
+    "levelNumber": 9
+  },
+  {
+    "id": 13,
+    "stageId": 2,
+    "type": "mini-challenge",
+    "name": "css",
+    "description": "",
+    "questions": [
+      {
+        "question": "How can you add a 10px space around all the elements with the class 'card'?",
+        "answer": ".card { margin: 10px; }",
+        "clue": ".__rd { __rg_n: 10__; }"
+      },
+      {
+        "question": "What CSS rule would you use to create a solid black border around an image element with 2 pixels?",
+        "answer": "img { border: 2px solid black; }",
+        "clue": "___ { __rd_r: 2__ __li_ _la__; }"
+      },
+      {
+        "question": "How can you center a div with a class 'container' horizontally within its container using flexbox?",
+        "answer": ".container { display: flex; justify-content: center; }",
+        "clue": ".container { di__la_: __ex; __sti__-___ten_: ce___r; }"
+      },
+      {
+        "question": "How can you vertically center an element within its container using flexbox and has a class name 'container'?",
+        "answer": ".container { display: flex; align-items: center; }",
+        "clue": ".container { __sp___: _le_; __ign-__e__: __nte_; }"
+      },
+      {
+        "question": "How can you position a class 'element' exactly at the top-left corner of the screen?",
+        "answer": ".element { position: absolute; top: 0; left: 0; }",
+        "clue": ".element { __sit__n: __so__t_; top: _; left: _; }"
+      }
+    ],
+    "levelNumber": 10
+  },
+  {
+    "id": 16,
+    "stageId": 2,
+    "type": "mini-challenge",
+    "name": "css",
+    "description": "",
+    "questions": [
+      {
+        "question": "How would you create a flexbox where items can resize and rearrange (_______: ____;)?",
+        "answer": "display: flex;",
+        "clue": "_i__l_y: f___;"
+      },
+      {
+        "question": "How do you create a container that uses the CSS Grid layout  (_______: ____;)?",
+        "answer": "display: grid;",
+        "clue": "__sp___: g__d;"
+      },
+      {
+        "question": "What CSS property defines the columns in a grid container?",
+        "answer": "grid-template-columns",
+        "clue": "grid-___p__te-_ol__n_"
+      },
+      {
+        "question": "How do you specify that an item should place the first(1) row then span across two(2) rows (____-___: 1 / ____ 2)?",
+        "answer": "grid-row: 1 / span 2;",
+        "clue": "gr__-__w: 1 / sp__ _;"
+      },
+      {
+        "question": "What are the two CSS properties determine the starting and ending positions of an item in a grid (____-_____ and ____-___)?",
+        "answer": "grid-column and grid-row",
+        "clue": "grid-_o___m_ and grid-___"
+      }
+    ],
+    "levelNumber": 11
+  },
+  {
+    "id": 17,
+    "stageId": 2,
+    "type": "mini-challenge",
+    "name": "css",
+    "description": "",
+    "questions": [
+      {
+        "question": "How would you add an image as a background to an element with the url 'desert.jpg'?",
+        "answer": "background-image: url('desert.jpg');",
+        "clue": "b__k_____d-_m___: url('______.jpg');"
+      },
+      {
+        "question": "How would you prevent a background image from repeating (__________-______: __-______;)?",
+        "answer": "background-repeat: no-repeat;",
+        "clue": "ba_______d: n_-_____t;"
+      },
+      {
+        "question": "What pseudo class that makes the element when the mouse hovers over it?",
+        "answer": ":hover",
+        "clue": ":h__e_"
+      },
+      {
+        "question": "How would you center text within a class 'title'?",
+        "answer": ".title { text-align: center; }",
+        "clue": ".title { t__t-al__n: c__t__; }"
+      },
+      {
+        "question": "How would you style an element 'button' when it is clicked and changes the background color to gray?",
+        "answer": "button:active { background-color: gray; }",
+        "clue": "button:a__i__ { ba__g___n_-c_l__: gray; }"
+      }
+    ],
+    "levelNumber": 12
+  },
+  {
+    "id": 18,
+    "stageId": 2,
+    "type": "boss",
+    "name": "css",
+    "description": "turtle",
+    "questions": [
+      {
+        "question": "What CSS property controls the color of text?",
+        "answer": "color",
+        "clue": "___or"
+      },
+      {
+        "question": "What CSS property are use to set the font size of an element?",
+        "answer": "font-size",
+        "clue": "__nt-_iz_"
+      },
+      {
+        "question": "What property controls the spacing around an element's content?",
+        "answer": "padding",
+        "clue": "__d__ng"
+      },
+      {
+        "question": "How do you position an element absolutely within its container (________: ________;)?",
+        "answer": "position: absolute;",
+        "clue": "p__it__n: a_s_l___;"
+      },
+      {
+        "question": "What CSS property that align items horizontally within a flex container?",
+        "answer": "justify-content",
+        "clue": "j_s_if_-_o_t__t"
+      },
+      {
+        "question": "What CSS property that align items vertically within a flex container?",
+        "answer": "align-items",
+        "clue": "a___n-it____"
+      },
+      {
+        "question": "What CSS property that applies a background color to an element?",
+        "answer": "background-color",
+        "clue": "_a_k__ou__-__lo_"
+      },
+      {
+        "question": "What property that sets an image as a background?",
+        "answer": "background-image",
+        "clue": "__c___o_n_-_m_g_"
+      },
+      {
+        "question": "What property that aligns text within an element?",
+        "answer": "text-align",
+        "clue": "__x_-__ig_"
+      },
+      {
+        "question": "What pseudo class styles an element when it has selected?",
+        "answer": ":focus",
+        "clue": ":_o_u_"
+      }
+    ],
+    "levelNumber": 13
+  },
+  {
+    "id": 19,
+    "stageId": 2,
+    "type": "reward",
+    "name": "css",
+    "description": "",
+    "questions": null,
+    "levelNumber": 14
+  },
+  {
+    "id": 20,
+    "stageId": 3,
+    "type": "learning",
+    "name": "htmlcss",
+    "description": "",
+    "questions": null,
+    "levelNumber": 15
+  },
+  {
+    "id": 21,
+    "stageId": 3,
+    "type": "mini-challenge",
+    "name": "htmlcss",
+    "description": "",
+    "questions": [
+      {
+        "question": "How to apply a red color to a paragraph using inline styles?",
+        "answer": "<p style='color: red;'></p>",
+        "clue": "<p style='c____: r___;'></p>"
+      },
+      {
+        "question": "How to make a heading with the ID 'main-title' have a font size of 24px using inline styles?",
+        "answer": "<h1 id='main-title' style='font-size: 24px;'></h1>",
+        "clue": "<h1 id='main-title' style='f___-s___: 24px;'></h1>"
+      },
+      {
+        "question": "How to add a background color of blue and a border of 2px solid black to a div using inline styles?",
+        "answer": "<div style='background-color: blue; border: 2px solid black;'></div>",
+        "clue": "<div style='b_____-c_____: blue; b_____: 2px s____ b____;'></div>"
+      },
+      {
+        "question": "How to apply a text color green and make the font bold in a paragraph using inline styles?",
+        "answer": "<p style='color: green; font-weight: bold;'></p>",
+        "clue": "<p style='c____: g____; f___-w____: b____;'></p>"
+      },
+      {
+        "question": "How to add a padding of 10px to an element with the class 'box'?",
+        "answer": ".box { padding: 10px; }",
+        "clue": ".box { p_____: 10px; }"
+      }
+    ],
+    "levelNumber": 16
+  },
+  {
+    "id": 22,
+    "stageId": 3,
+    "type": "mini-challenge",
+    "name": "htmlcss",
+    "description": "",
+    "questions": [
+      {
+        "question": "How to add a css style in paragraph tag directly with a font size 24 pixels",
+        "answer": "<p style='font-size: 24x;></p>'",
+        "clue": "<p _____='_fo__-__ze: 24__;></p>"
+      },
+      {
+        "question": "How to change the background color of a div element to blue using inline styles?",
+        "answer": "<div style='background-color: blue;'></div>",
+        "clue": "<div style='b_____-c_____: blue;'></div>"
+      },
+      {
+        "question": "How would you add a margin of 20px and background color yellow to all elements with the class 'card'?",
+        "answer": ".card { margin: 20px; background-color: yellow; }",
+        "clue": ".card { m___i_: __px; __c_g__u__-__l__: yellow; }"
+      },
+      {
+        "question": "What tag that places between the <style> tag within an HTML document?",
+        "answer": "<head></head>",
+        "clue": "<__ed></__ed>"
+      },
+      {
+        "question": "How would you create a style rule to center the text with the ID 'container' inside the style tag?",
+        "answer": "<style>#container { text-align: center; }</style>",
+        "clue": "<st_l_>#container { __x_-__i_n: __nt__; } </st_l_>"
+      }
+    ],
+    "levelNumber": 17
+  },
+  {
+    "id": 23,
+    "stageId": 3,
+    "type": "mini-challenge",
+    "name": "htmlcss",
+    "description": "",
+    "questions": [
+      {
+        "question": "What CSS property controls the spacing between lines of text?",
+        "answer": "line-height",
+        "clue": "l___-h_____"
+      },
+      {
+        "question": "How to underline a text in a class 'text' in the document?",
+        "answer": ".text { text-decoration: underline; }",
+        "clue": ".text { t___-d_____: u_______; }"
+      },
+      {
+        "question": "How to align text to the right within a div with the class 'content'?",
+        "answer": ".content { text-align: right; }",
+        "clue": ".content { t___-a___: r____; }"
+      },
+      {
+        "question": "How to set the height of an image with the ID 'myImage' to 200px?",
+        "answer": "#myImage { height: 200px; }",
+        "clue": "#myImage { h_____: 200px; }"
+      },
+      {
+        "question": "How to set the font family of all paragraph elements to Arial inside the internal CSS (<head>)?",
+        "answer": "<head><style>p { font-family: Arial; }</style></head>",
+        "clue": "<__e_><___yl_>p { f___-f_____: Arial; }<___yl_></__e_>"
+      }
+    ],
+    "levelNumber": 18
+  },
+  {
+    "id": 24,
+    "stageId": 3,
+    "type": "mini-challenge",
+    "name": "htmlcss",
+    "description": "",
+    "questions": [
+      {
+        "question": "How to convert all text within a heading level 1 to uppercase using CSS?",
+        "answer": "h1 { text-transform: uppercase; }",
+        "clue": "h1 { t___-t_______: u______e; }"
+      },
+      {
+        "question": "What CSS property controls the spacing between lines of text?",
+        "answer": "line-height",
+        "clue": "l___-h_____"
+      },
+      {
+        "question": "What properties that used to change the size of the image (_____ and _____)?",
+        "answer": "height and width",
+        "clue": "__ig__ and ___th"
+      },
+      {
+        "question": "How to specify a different font for all body text into Arial?",
+        "answer": "body { font-family: Arial; }",
+        "clue": "body { f___-f_____: A____; }"
+      },
+      {
+        "question": "What CSS property controls the thickness of font characters?",
+        "answer": "font-weight",
+        "clue": "f___-w_____"
+      }
+    ],
+    "levelNumber": 19
+  },
+  {
+    "id": 25,
+    "stageId": 3,
+    "type": "boss",
+    "name": "htmlcss",
+    "description": "bloated",
+    "questions": [
+      {
+        "question": "How to apply a red color and bold font weight to a paragraph using inline styles?",
+        "answer": "<p style='color: red; font-weight: bold;'></p>",
+        "clue": "<p style='c____: r___; f___-w____: b____;'>.</p>"
+      },
+      {
+        "question": "How to create a CSS rule to style all headings levels with a font size of 20px and a blue color?",
+        "answer": "h1, h2, h3, h4, h5, h6 { font-size: 20px; color: blue; }",
+        "clue": "h1, h2, h3, h4, h5, h6 { f___-s___: 20px; c____: b____; }"
+      },
+      {
+        "question": "How to add a margin of 20px, padding of 10px, and a border of 1px solid black to an element with the class 'card'?",
+        "answer": ".card { margin: 20px; padding: 10px; border: 1px solid black; }",
+        "clue": ".card { m____: 20px; p_____: 10px; b_____: 1px s____ b____; }"
+      },
+      {
+        "question": "How to change the background color of a div element to orange using inline styles?",
+        "answer": "<div style='background-color: orange;'></div>",
+        "clue": "<div style='b_____-c_____: orange;'></div>"
+      },
+      {
+        "question": "How to create a media query to apply specific styles for screens smaller than 600px (@_____ (___-_____: 600__))?",
+        "answer": "@media (max-width: 600px)",
+        "clue": "@m____ (m___-w____: 600px)"
+      },
+      {
+        "question": "How do you create a media query to apply styles for screens larger than 1200px (@_____ (___-_____: 1200__))?",
+        "answer": "@media (min-width: 1200px)",
+        "clue": "@m____ (m__-w_____: 1200px)"
+      },
+      {
+        "question": "Can you combine max-width and min-width media queries in the same rule? (Yes or No)",
+        "answer": "Yes",
+        "clue": "_e_"
+      },
+      {
+        "question": "How to set the font family of all id 'main' and class 'details' elements to Arial?",
+        "answer": "#main, .details { font-family: Arial; }",
+        "clue": "_____, ________ { f___-f_____: Arial; }"
+      }
+    ],
+    "levelNumber": 20
+  },
+  {
+    "id": 27,
+    "stageId": 3,
+    "type": "reward",
+    "name": "htmlcss",
+    "description": "",
+    "questions": null,
+    "levelNumber": 21
+  },
+  {
+    "id": 28,
+    "stageId": 4,
+    "type": "learning",
+    "name": "js",
+    "description": "",
+    "questions": null,
+    "levelNumber": 22
+  },
+  {
+    "id": 29,
+    "stageId": 4,
+    "type": "mini-challenge",
+    "name": "js",
+    "description": "",
+    "questions": [
+      {
+        "question": "What is the output of the following code: console.log('Hello, world!');",
+        "answer": "Hello, world!",
+        "clue": "_____, ______"
+      },
+      {
+        "question": "Declare a variable named 'greeting' using 'let' and assign it the value 'Welcome!'",
+        "answer": "let greeting = 'Welcome!';",
+        "clue": "let ________ = _W___o__!_;"
+      },
+      {
+        "question": "Declare a variable named 'Age' using 'var' and assign it the value '21'",
+        "answer": "var Age = 21;",
+        "clue": "var ___ = __;"
+      },
+      {
+        "question": "Write an if statement to check if a number stored in a variable 'x' is greater than 10 and log 'Number is greater than 10' if true. ( __ (x _ __) { console.log('Number is greater than 10'); } )",
+        "answer": "if (x > 10) { console.log('Number is greater than 10'); }",
+        "clue": "_f (x _ 10) { co_____.___('Number is greater than 10');"
+      },
+      {
+        "question": "Create a simple for loop that counts from 0 to 4 and logs each number (___(let i _ _; i _ 5; ____) _ ______.___(_); _",
+        "answer": "for(let i = 0; i < 5; i++) { console.log(i); }",
+        "clue": "_o_(let i = _; i < 5; __+) { ___s__e._og(_); }"
+      }
+    ],
+    "levelNumber": 23
+  },
+  {
+    "id": 30,
+    "stageId": 4,
+    "type": "mini-challenge",
+    "name": "js",
+    "description": "",
+    "questions": [
+      {
+        "question": "Create a function named 'greet' that takes a 'name' as a parameter and logs a greeting message.( ________ greet(____) { _______.log('Hello, ' + name + '!') _ )",
+        "answer": "function greet(name) { console.log('Hello, ' + name + '!') }",
+        "clue": "function greet(_a__) { __n__l_.log('Hello, ' + name + '!') }"
+      },
+      {
+        "question": "Declare an array named 'fruits' with values 'apple', 'banana', and 'orange'.",
+        "answer": "let fruits = ['apple', 'banana', 'orange'];",
+        "clue": "let fruits = [a____, ban___, __a___];"
+      },
+      {
+        "question": "How to access the third element of the array 'fruits'.",
+        "answer": "fruits[2]",
+        "clue": "fruits[_]"
+      },
+      {
+        "question": "Create an object representing a person with properties 'name' with key value 'John Doe' and 'age' with key value '30'.",
+        "answer": "let person = { name: 'John Doe', age: 30 };",
+        "clue": "let person = { name: ___, age: __ };"
+      },
+      {
+        "question": "Write the code to check if two numbers are equal ('==') and console 'Equal' using two variables num1 and num2. ( if (_um__ __ _um_) { ___s___._og(_______) } )",
+        "answer": "if (num1 == num2) { console.log('Equal') }",
+        "clue": "if (num_ __ num_) { console.log('_____') }"
+      }
+    ],
+    "levelNumber": 24
+  },
+  {
+    "id": 31,
+    "stageId": 4,
+    "type": "mini-challenge",
+    "name": "js",
+    "description": "",
+    "questions": [
+      {
+        "question": "How do you add an element to the end of an array named 'fruits' with a value 'orange' ( ______.____('______'); )?",
+        "answer": "fruits.push('orange');",
+        "clue": "__ui__.__s_('o___g_');"
+      },
+      {
+        "question": "How do you remove an element to the end of an array named 'students' with a value 'Tyson' ( ________.___('_____'); )?",
+        "answer": "students.pop('Tyson');",
+        "clue": "__u_en__._o_('__s_n');"
+      },
+      {
+        "question": "How do you add an element to the start of an array named 'Games' with a value 'Wildrift' ( ____._______('________'); )?",
+        "answer": "Games.unshift('Wildrift');",
+        "clue": "__m__.__s__ft('____r_ft');"
+      },
+      {
+        "question": "Declare a block-scoped variable named 'count' and assign it the value 5. (let _____ _ _;)",
+        "answer": "let count = 5;",
+        "clue": "let ___ = 5;"
+      },
+      {
+        "question": "Create a structure/object to store information about a person with properties 'name' with key value 'Mikey' and 'gender' with key value 'Male'. ( let _____ = { ____: _____, ______: ____ }; )",
+        "answer": "let person = { name: 'Mikey' , gender: 'Male' };",
+        "clue": "let person = { na__: '__k__', g__d__: '__l_' };"
+      }
+    ],
+    "levelNumber": 25
+  },
+  {
+    "id": 32,
+    "stageId": 4,
+    "type": "mini-challenge",
+    "name": "js",
+    "description": "",
+    "questions": [
+      {
+        "question": "Write a concise function using arrow function syntax to log a greeting message using a constant greet with a parameter 'name' and 'age'. ( const _____ = (____, ___) => { console.log('Hello ,' + ____ + ' You are ' + ___); } )",
+        "answer": "const greet = (name) => { console.log('Hello, ' + name + ' You are ' + age); }",
+        "clue": "const __ee_ = (_a__, a__) => { console.log('Hello ,' + __m_ + ' You are ' + __e); }"
+      },
+      {
+        "question": "How to display all toppings in only one parameter ( function Toppings(___________) { console.log('Toppings:', toppings);} Toppings('cheese', 'pepperoni', 'mushrooms', 'olives'); 'answer the blank only'",
+        "answer": "...toppings",
+        "clue": "___t___i___"
+      },
+      {
+        "question": "Extract the 'name' and 'age' properties from the object 'person = { name: 'Traveler', age: 25 }' into separate variables (Destructuring).",
+        "answer": "const { name, age } = person;",
+        "clue": "const { n___, __e } = person;"
+      },
+      {
+        "question": "Extract these array of numbers 'const numbers = [11, 12, 13];' \n( const [______, ______, ________] = _______;  )  \n'little hint: make the value of the numbers into the corresponding word'",
+        "answer": "const [eleven, twelve, thirteen] = numbers;",
+        "clue": "const [_l___n, __el__, _____ee_] = numbers;"
+      },
+      {
+        "question": "How to use a key array method when accesing the 'student' object ( ______.____(_______) )?",
+        "answer": "Object.keys(student)",
+        "clue": "O__e__._e__(__u__n_)"
+      }
+    ],
+    "levelNumber": 26
+  },
+  {
+    "id": 33,
+    "stageId": 4,
+    "type": "boss",
+    "name": "js",
+    "description": "twohead",
+    "questions": [
+      {
+        "question": "Write a JavaScript code to declare a variable named 'message' using 'let', assign it the value 'Hello, World!', and then log it to the console (let _______ = '______ ______'; con____.___(_______);).",
+        "answer": "let message = 'Hello, World!'; console.log(message);",
+        "clue": "let message = '_____'; console.log(_____);"
+      },
+      {
+        "question": "Create a function named 'calculateArea' that takes two parameters, 'length' and 'width', and returns the area of a rectangle. ( function calculateArea(__n__h, _i__h) { return _____ _ _____; } )",
+        "answer": "function calculateArea(length, width) { return length * width; }",
+        "clue": "function calculateArea(length, width) { return _____ * _____ }"
+      },
+      {
+        "question": "Create an object named 'person' with properties 'name', 'age', and 'city' (in these order). Assign appropriate values ('John Doe', 30 'New York') to these properties and log the person's name to the console. \n ( let person = { ____: '____ ___', ___: __, ____: '___ ____' }; console.log(______.____); )",
+        "answer": "let person = { name: 'John Doe', age: 30, city: 'New York' }; console.log(person.name);",
+        "clue": "let person = { name: ___, age: ___, city: ___ }; console.log(person.___);"
+      },
+      {
+        "question": "Extract the 'firstName' and 'lastName' properties from the object `person = { firstName: 'Alice', lastName: 'Smith' }` into separate variables.",
+        "answer": "const { firstName, lastName } = person;",
+        "clue": "const { __rs___m_, ___tN___ } = ___s__;"
+      },
+      {
+        "question": "Write a concise arrow function constant named 'greet' that takes a 'name' as a parameter and returns a greeting message. ( const _____ = (name) __ _ console.log('He___, ' + ____ + '!'); } )",
+        "answer": "const greet = (name) => { console.log('Hello, ' + name + '!'); }",
+        "clue": "const __e_t = (name) => { console.log('He__o, ' + __me + '!'); };"
+      },
+      {
+        "question": "Complete the arrow function and logs the message, the parameter is 'mes' ( let message = (__) __ _______.___(___); )",
+        "answer": "let message = (mes) => console.log(mes);",
+        "clue": "let message = (___) __ console.log(___);"
+      },
+      {
+        "question": "How to use a find array method when accesing the 'person' thats finds the gender 'Male' object ( person.____(______ __ ___son.______ == ______) )?",
+        "answer": "person.find(person => person.gender == 'Male');",
+        "clue": "person.__nd(___on => ____on.gender == 'M__e');"
+      },
+      {
+        "question": "How do you remove an element to the start of an array named 'teachers' with a value 'Einstein' ( ________.______('________'); )?",
+        "answer": "teachers.shift('Einstein');",
+        "clue": "_ea__er_.__if_('E__s___n');"
+      },
+      {
+        "question": "What is the output of the following code: console.log(3 + '5');",
+        "answer": "35",
+        "clue": "_5"
+      },
+      {
+        "question": "What is the final value of this code. ( let sum = 0; for(let i = 0; i < 5; i++) {sum += i } console.log(sum) ) 'answer by number only'",
+        "answer": "10",
+        "clue": "1_"
+      },
+      {
+        "question": "Make a copy of a new array and display the result of the copied array, complete the code \n ( \nconst originalArray = [1, 2, 3]; \nconst copiedArray = [_______________]; \n_______.___(___________); )",
+        "answer": "const originalArray = [1, 2, 3]; const copiedArray = [...originalArray]; console.log(copiedArray);",
+        "clue": "const originalArray = [1, 2, 3]; const copiedArray = [___ori_________y]; ____ole._o_(c_________y);"
+      }
+    ],
+    "levelNumber": 27
+  },
+  {
+    "id": 34,
+    "stageId": 4,
+    "type": "reward",
+    "name": "js",
+    "description": "",
+    "questions": null,
+    "levelNumber": 28
+  },
+  {
+    "id": 35,
+    "stageId": 5,
+    "type": "learning",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": null,
+    "levelNumber": 29
+  },
+  {
+    "id": 36,
+    "stageId": 5,
+    "type": "mini-challenge",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": [
+      {
+        "question": "How do you access an element with the ID 'myElement' \n( ______nt.get_________('myElement') )?",
+        "answer": "document.getElementById('myElement')",
+        "clue": "document.get_________('myElement')"
+      },
+      {
+        "question": "How do you change the text content of an element with the ID 'message' to 'Hello, world!'? \n( __um____.__________Id('_______').textContent = '______ ______' )",
+        "answer": "document.getElementById('message').textContent = 'Hello, world!';",
+        "clue": "docume__._et____entById('mess___')._____ = 'He___, w____!';"
+      },
+      {
+        "question": "How do you create a new paragraph element with the text 'This is a new paragraph'? \n( const newParagraph = document._____________('_'); ____________._____ = 'This is a new paragraph!' )",
+        "answer": "const newParagraph = document.createElement('p'); newParagraph.textContent = 'This is a new paragraph!';",
+        "clue": "const newParagraph = document.create_______('p'); newParagraph._____ = 'This is a new paragraph!';"
+      },
+      {
+        "question": "How do you add a class named 'highlight' to an element with the ID 'myElement'? \n( _______.___Ele__nt____('_________').________.___('highlight'); )",
+        "answer": "document.getElementById('myElement').classList.add('highlight');",
+        "clue": "document.g__ElementBy__('my_______').cl___Li__.__d('highlight');"
+      },
+      {
+        "question": "What property can you use to change the background color of an element? \n ( element._____.____________lo_ )",
+        "answer": "element.style.backgroundColor",
+        "clue": "element.style.__________"
+      }
+    ],
+    "levelNumber": 30
+  },
+  {
+    "id": 37,
+    "stageId": 5,
+    "type": "mini-challenge",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": [
+      {
+        "question": "How do you add a click event listener to a button with the ID 'myButton'? \n( document.get__________('________').add_______('_____', function() {}); )",
+        "answer": "document.getElementById('myButton').addEventListener('click', function() {});",
+        "clue": "document.getElementById('my______').add_______('cli__', function() {});"
+      },
+      {
+        "question": "What event occurs when a user presses a key? \n ( _ey____ )",
+        "answer": "keydown",
+        "clue": "key_____"
+      },
+      {
+        "question": "How do you access the key that was pressed in a keydown event? ( ____.___ )",
+        "answer": "event.key",
+        "clue": "____.key"
+      },
+      {
+        "question": "What event occurs when a form is submitted? \n( __m__ )",
+        "answer": "submit",
+        "clue": "__bmi_"
+      },
+      {
+        "question": "How do you prevent the default behavior of a form submission? \n( event.______________() )",
+        "answer": "event.preventDefault();",
+        "clue": "event.pre____Default();"
+      }
+    ],
+    "levelNumber": 31
+  },
+  {
+    "id": 38,
+    "stageId": 5,
+    "type": "mini-challenge",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": [
+      {
+        "question": "How do you access the value of an input element with the ID 'nameInput'? \n( document.______________('_________')._____ )",
+        "answer": "document.getElementById('nameInput').value",
+        "clue": "document.getElementById('nameInput').____"
+      },
+      {
+        "question": "What tag use to submit a user information such as name, age, address and etc.? \n( <____></____> ) ",
+        "answer": "<form></form>",
+        "clue": "<_or_></_or_>"
+      },
+      {
+        "question": "How do you create a dropdown list using HTML? \n ( <______></______> )",
+        "answer": "<select></select>",
+        "clue": "<__le__></__le__>"
+      },
+      {
+        "question": "What event is triggered when a form is submitted?",
+        "answer": "submit",
+        "clue": "__bm__"
+      },
+      {
+        "question": "What tag that provides a user-friendly description for form elements? \n( <_____><_____> )",
+        "answer": "<label></label>",
+        "clue": "<_ab__></_ab__>"
+      }
+    ],
+    "levelNumber": 32
+  },
+  {
+    "id": 39,
+    "stageId": 5,
+    "type": "mini-challenge",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": [
+      {
+        "question": "How do you create a new element with the tag name 'div'? \n ( const newDiv = document.___________('__'); )",
+        "answer": "const newDiv = document.createElement('div');",
+        "clue": "const newDiv = document.create_______('___');"
+      },
+      {
+        "question": "How do you add a child element to another element? \n ( ______Element.___________(childElement); )",
+        "answer": "parentElement.appendChild(childElement);",
+        "clue": "parent_______.append____(childElement);"
+      },
+      {
+        "question": "How do you add an onclick event to a button element and function named 'clicks' directly in HTML? \n ( <button _______='________'>Click me</button> )",
+        "answer": "<button onclick='clicks()'>Click me</button>",
+        "clue": "<button _____='_li___()'>Click me</button>"
+      },
+      {
+        "question": "How do you add the class 'active' to an element? \n ( element._________.___('______'); )",
+        "answer": "element.classList.add('active');",
+        "clue": "element.cl_____s_._d_('active');"
+      },
+      {
+        "question": "How do you remove the class 'inactive' from an element? \n ( element._________.______('________'); )",
+        "answer": "element.classList.remove('inactive');",
+        "clue": "element.cl_____s_.____ve('inactive');"
+      }
+    ],
+    "levelNumber": 33
+  },
+  {
+    "id": 40,
+    "stageId": 5,
+    "type": "boss",
+    "name": "htmlcssjs",
+    "description": "dragon",
+    "questions": [
+      {
+        "question": "Write the code to access an element with the ID 'content'. \n( ________.____________('_______') )",
+        "answer": "document.getElementById('content')",
+        "clue": "document.get_______Id('content')"
+      },
+      {
+        "question": "Write the code to change the text content of an element with the ID 'message' to 'Hello, world!' \n( document.____________('_______').___________ = 'Hello, world!'; )",
+        "answer": "document.getElementById('message').textContent = 'Hello, world!';",
+        "clue": "document.getElementById('message')._____ = 'Hello, world!';"
+      },
+      {
+        "question": "Write the code to add an onclick event to a button with the ID 'myButton' that displays an alert. \n( document.______________('________')._______ = function() { _____('Button clicked!'); }; )",
+        "answer": "document.getElementById('myButton').onclick = function() { alert('Button clicked!'); };",
+        "clue": "document.getElementById('________')._____ck = function() { _____('Button clicked!'); };"
+      },
+      {
+        "question": "Write the code to create a new paragraph element with the text 'This is a new paragraph!' and append it to an element with the ID 'container'.",
+        "answer": "const newParagraph = document.createElement('p'); newParagraph.textContent = 'This is a new paragraph!'; document.getElementById('container').appendChild(newParagraph);",
+        "clue": "const newParagraph = document.create_______('p'); newParagraph._____ = 'This is a new paragraph!'; document.getElementById('container').append____(newParagraph);"
+      },
+      {
+        "question": "Write the code to prevent the default behavior of a form submission. \n( _____.______________(); )",
+        "answer": "event.preventDefault();",
+        "clue": "_____.pre______fa___();"
+      },
+      {
+        "question": "Write the code to access the value of an input element with the ID 'nameInput'. \n( ________.____________('nameInput')._____ )",
+        "answer": "document.getElementById('nameInput').value",
+        "clue": "document.getElementById('nameInput').____"
+      },
+      {
+        "question": "Write the code to create a simple HTML form with an input field and a submit button. \n( <____><input type='text'><button type='______'>Submit</button></____> )",
+        "answer": "<form><input type='text'><button type='submit'>Submit</button></form>",
+        "clue": "<____><input type='text'><button type='submit'>Submit</button></____>"
+      },
+      {
+        "question": "Write the code to add a class named 'highlight' to an element with the ID 'myElement'. \n( document.getElementById('myElement')._________.___('________'); )",
+        "answer": "document.getElementById('myElement').classList.add('highlight');",
+        "clue": "document.getElementById('myElement').classList.___('highlight');"
+      },
+      {
+        "question": "Write the code to add an event listener to a button with the ID 'myButton' that displays an alert when clicked. \n( document.getElementById('________').________________('_____', function() { _____('Button clicked!'); }); )",
+        "answer": "document.getElementById('myButton').addEventListener('click', function() { alert('Button clicked!'); });",
+        "clue": "document.getElementById('myButton').add_______('__i_k', function() { ___rt('Button clicked!'); });"
+      },
+      {
+        "question": "How do you create a new HTML element using JavaScript? \n( document._____________() )",
+        "answer": "document.createElement()",
+        "clue": "document.create_______()"
+      },
+      {
+        "question": "What event occurs when the mouse pointer moves out of an element? \n ( _________ )",
+        "answer": "mouseout",
+        "clue": "__use___"
+      },
+      {
+        "question": "Write the code to add an submit event with a function 'Userform' to a button element directly in HTML. \n( <______ on______='__________'>Submit</______> )",
+        "answer": "<button onsubmit='Userform()'>Submit</button>",
+        "clue": "<bu____ on____it='U____o__()'>Submit</bu____>"
+      }
+    ],
+    "levelNumber": 34
+  },
+  {
+    "id": 41,
+    "stageId": 5,
+    "type": "reward",
+    "name": "htmlcssjs",
+    "description": "",
+    "questions": null,
+    "levelNumber": 35
+  }
+]

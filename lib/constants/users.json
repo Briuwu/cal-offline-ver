@@ -1,0 +1,86 @@
+[
+  {
+    "id": 66,
+    "userId": "user_2p3VhQClLCESdH3a5wCYQnY5xho",
+    "username": "afjk",
+    "email": "airmojica@gmail.com",
+    "coins": 110,
+    "xp": 0,
+    "currentLevel": 3,
+    "selectedCharacter": 2,
+    "created_at": "2024-11-19 05:42:43.600434",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJwM1ZoUUNsTENFU2RIM2E1d0NZUW5ZNXhobyJ9"
+  },
+  {
+    "id": 67,
+    "userId": "user_2mpOHUB11mfFDlKfHXLLpRtAvwn",
+    "username": "Briuwu",
+    "email": "millontebry+clerk_test@gmail.com",
+    "coins": 2680,
+    "xp": 50,
+    "currentLevel": 44,
+    "selectedCharacter": 4,
+    "created_at": "2024-11-24 04:18:46.329629",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJtcE9IVUIxMW1mRkRsS2ZIWExMcFJ0QXZ3biJ9"
+  },
+  {
+    "id": 70,
+    "userId": "user_2mplBuvQZ1hf4ThJo90K73mJA1w",
+    "username": "broowo",
+    "email": "millontebrian+clerk_test@gmail.com",
+    "coins": 0,
+    "xp": 0,
+    "currentLevel": 1,
+    "selectedCharacter": 1,
+    "created_at": "2024-11-26 10:31:29.419225",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJtcGxCdXZRWjFoZjRUaEpvOTBLNzNtSkExdyJ9"
+  },
+  {
+    "id": 71,
+    "userId": "user_2p1c1FlHdT7v3EmLH5kxvtoqRDq",
+    "username": "ZenithSUS",
+    "email": "jeranchristopher.merino@cvsu.edu.ph",
+    "coins": 2620,
+    "xp": 0,
+    "currentLevel": 59,
+    "selectedCharacter": 7,
+    "created_at": "2024-11-27 11:37:41.226767",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJwSDdtc3g1S3NZOGpkajZ6Nkt5dGwwV1pVOCJ9"
+  },
+  {
+    "id": 72,
+    "userId": "user_2p1baqCLM6x3iR7Dpx8hB3LeTHd",
+    "username": "masterij",
+    "email": "isaacjamesmarasigan1@gmail.com",
+    "coins": 190,
+    "xp": 50,
+    "currentLevel": 4,
+    "selectedCharacter": 2,
+    "created_at": "2024-11-27 12:49:52.197926",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJwMWJhcUNMTTZ4M2lSN0RweDhoQjNMZVRIZCJ9"
+  },
+  {
+    "id": 73,
+    "userId": "user_2pZnwbzH8thktc9CkMxVlOw1bCE",
+    "username": "CHAE SAN",
+    "email": "shansoriano22@gmail.com",
+    "coins": 0,
+    "xp": 0,
+    "currentLevel": 1,
+    "selectedCharacter": 2,
+    "created_at": "2024-11-30 16:06:14.764753",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJwWm53YnpIOHRoa3RjOUNrTXhWbE93MWJDRSJ9"
+  },
+  {
+    "id": 74,
+    "userId": "user_2pgIeyruaibP21Rscv1IbpERB3U",
+    "username": "Tamagooooooooo",
+    "email": "hicapdarenz@gmail.com",
+    "coins": 0,
+    "xp": 0,
+    "currentLevel": 1,
+    "selectedCharacter": 1,
+    "created_at": "2024-12-02 23:17:32.230565",
+    "avatar": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJwZ0lleXJ1YWliUDIxUnNjdjFJYnBFUkIzVSJ9"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Doomsdale - HTML Basics",
+    "description": "Complete the HTML Basics stage",
+    "xp": 3,
+    "coins": 100,
+    "rewarded_at": 7
+  },
+  {
+    "id": 2,
+    "name": "Terraquill - CSS Styling",
+    "description": "omplete the CSS Styling stage",
+    "xp": 5,
+    "coins": 200,
+    "rewarded_at": 14
+  },
+  {
+    "id": 3,
+    "name": "Nemorosa - HTML & CSS Integration",
+    "description": "Complete the HTML & CSS Integration stage",
+    "xp": 7,
+    "coins": 300,
+    "rewarded_at": 21
+  },
+  {
+    "id": 4,
+    "name": "Rimegate - JavaScript Fundamentals",
+    "description": "Complete the JavaScript Fundamentals stage",
+    "xp": 9,
+    "coins": 400,
+    "rewarded_at": 28
+  },
+  {
+    "id": 5,
+    "name": "Sunfire Isle - DOMination",
+    "description": "Complete the DOMination stage",
+    "xp": 11,
+    "coins": 500,
+    "rewarded_at": 35
+  },
+  {
+    "id": 6,
+    "name": "Learn the basics of HTML",
+    "description": "Complete the learning stage of HTML",
+    "xp": 1,
+    "coins": 50,
+    "rewarded_at": 1
+  },
+  {
+    "id": 7,
+    "name": "Learn the basics of CSS",
+    "description": "Complete the learning stage of CSS",
+    "xp": 1,
+    "coins": 50,
+    "rewarded_at": 8
+  },
+  {
+    "id": 8,
+    "name": "Learn the basics of HTML and CSS integration",
+    "description": "Complete the learning stage of HTML and CSS integration",
+    "xp": 1,
+    "coins": 50,
+    "rewarded_at": 15
+  },
+  {
+    "id": 9,
+    "name": "Learn the basics of JavaScript",
+    "description": "Complete the learning stage of JavaScript",
+    "xp": 1,
+    "coins": 50,
+    "rewarded_at": 22
+  },
+  {
+    "id": 10,
+    "name": "Learn the basics of DOM manipulation",
+    "description": "Complete the learning stage of DOM manipulation",
+    "xp": 1,
+    "coins": 50,
+    "rewarded_at": 29
+  },
+  {
+    "id": 11,
+    "name": "Slayed the Boss of Doomsdale",
+    "description": "Defeat the boss of Doomsdale stage",
+    "xp": 3,
+    "coins": 100,
+    "rewarded_at": 6
+  },
+  {
+    "id": 12,
+    "name": "Slayed the Boss of Terraquill",
+    "description": "Defeat the boss of Terraquill stage",
+    "xp": 3,
+    "coins": 200,
+    "rewarded_at": 13
+  },
+  {
+    "id": 13,
+    "name": "Slayed the Boss of Nemorosa",
+    "description": "Defeat the boss of Nemorosa stage",
+    "xp": 3,
+    "coins": 300,
+    "rewarded_at": 20
+  },
+  {
+    "id": 14,
+    "name": "Slayed the Boss of Rimegate",
+    "description": "Defeat the boss of Rimegate stage",
+    "xp": 3,
+    "coins": 400,
+    "rewarded_at": 27
+  },
+  {
+    "id": 15,
+    "name": "Slayed the Boss of Sunfire Isle",
+    "description": "Defeat the boss of Sunfire Isle stage",
+    "xp": 3,
+    "coins": 500,
+    "rewarded_at": 34
+  }
+]
