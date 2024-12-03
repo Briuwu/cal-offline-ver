@@ -1,6 +1,11 @@
 "use client";
 import { Button } from "@/components/ui/button";
-import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
+import {
+  Dialog,
+  DialogContent,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 import { getNPCImage } from "@/lib/npc";
 import { cn } from "@/lib/utils";
 import { useMediaQuery } from "@uidotdev/usehooks";
@@ -27,7 +32,7 @@ export const Dialogue = ({
   stageId,
   onPreviousDialogue,
 }: Props) => {
-  const [open, setOpen] = useState(true);
+  const [, setOpen] = useState(true);
   const npcImage = getNPCImage(stageId);
   const isLargeDevice = useMediaQuery("only screen and (min-width : 1024px)");
   return !isLargeDevice ? (
@@ -107,6 +112,7 @@ export const Dialogue = ({
                 </Button>
               </DialogTrigger>
               <DialogContent>
+                <DialogTitle>Example</DialogTitle>
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={`/${dialogue.image}`} alt="" className="max-w-full" />
               </DialogContent>
