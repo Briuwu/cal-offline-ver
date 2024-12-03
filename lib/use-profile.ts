@@ -1,9 +1,11 @@
 "use client";
 import { useState } from "react";
-import users from "@/lib/constants/users.json";
+import usersData from "@/lib/constants/users.json";
+import { Users } from "@/types";
 
 export function useProfile() {
-  const [profile, setProfile] = useState(users[0]);
+  const [users, setUsers] = useState(usersData);
+  const [profile, setProfile] = useState<Users>(users[0]);
 
   const handleUserCharacterChange = (characterId: number) => {
     setProfile({
@@ -12,8 +14,13 @@ export function useProfile() {
     });
   };
 
+  const addProfile = (user: Users) => {
+    setUsers([...users, user]);
+  };
+
   return {
     profile,
     handleUserCharacterChange,
+    addProfile,
   };
 }

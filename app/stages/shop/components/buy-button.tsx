@@ -4,6 +4,7 @@
 //   handleEquippedCharacter,
 // } from "@/actions/characters";
 import { Button } from "@/components/ui/button";
+import { useProfile } from "@/lib/use-profile";
 import { toast } from "sonner";
 
 type Props = {
@@ -17,13 +18,15 @@ type Props = {
 export const BuyButton = ({
   isPurchaseable,
   selected,
-  // characterId,
+  characterId,
   // coins,
   owned,
 }: Props) => {
+  const { handleUserCharacterChange } = useProfile();
   const handlePurchase = async () => {
     try {
       // await handleBuyCharacter(characterId, Number(coins));
+      handleUserCharacterChange(characterId);
       toast.success("Character purchased");
     } catch (error) {
       if (error instanceof Error) {

@@ -18,10 +18,11 @@ import {
 
 import { toast } from "sonner";
 import { Input } from "@/components/ui/input";
-import users from "@/lib/constants/users.json";
 import { useRouter } from "next/navigation";
+import { useProfile } from "@/lib/use-profile";
 
 export const CharacterSelect = () => {
+  const { addProfile } = useProfile();
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
   const [username, setUsername] = useState("");
@@ -44,7 +45,7 @@ export const CharacterSelect = () => {
     startTransition(async () => {
       try {
         // await createProfile(selectedCharacter, username);
-        users.push({
+        addProfile({
           id: Math.floor(Math.random() * 1001),
           userId: "user_2p3VhQClLCESdH3a5wCYQnY5xho",
           username: username,

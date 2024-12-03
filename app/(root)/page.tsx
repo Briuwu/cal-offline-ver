@@ -21,7 +21,7 @@ function Home() {
             className="drop-shadow-small border border-black bg-green-300 font-bold uppercase text-black hover:opacity-80"
             asChild
           >
-            <Link href="/stages">Play Now</Link>
+            <Link href="/onboarding">Play Now</Link>
           </Button>
         </div>
         <Image src={banner} alt="" width={518} height={699} />

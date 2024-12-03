@@ -51,7 +51,7 @@ export default function Onboard() {
     if (!isButtonDisabled) {
       setCurrentStep((prev) => Math.min(prev + 1, steps.length - 1));
       if (currentStep === steps.length - 1) {
-        router.push("/character-selection");
+        router.push("/start");
       }
       // Disable button temporarily after clicking
       setIsButtonDisabled(true);
@@ -74,7 +74,7 @@ export default function Onboard() {
   const progress = ((currentStep + 1) / steps.length) * 100;
 
   return (
-    <div className="text-foreground flex min-h-screen flex-col justify-between bg-[#1e1e1e]">
+    <div className="flex min-h-screen flex-col justify-between bg-[#1e1e1e] text-foreground">
       <header className="p-4">
         <Progress value={progress} className="w-full" />
       </header>

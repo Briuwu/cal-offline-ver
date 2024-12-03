@@ -68,8 +68,6 @@ async function ShopPage() {
     };
   });
 
-  console.log(characters);
-
   return (
     <main>
       <div className="mb-5">
