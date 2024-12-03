@@ -8,15 +8,17 @@ import { backgroundImg, backgroundStage } from "@/lib/backgrounds";
 import levels from "@/lib/constants/levels.json";
 import { Levels } from "@/types";
 
-async function RewardPage({
-  params,
-}: {
-  params: { levelNumber: number; stageId: number };
-}) {
+type Props = {
+  params: Promise<{ levelNumber: number; stageId: number }>;
+};
+
+async function RewardPage({ params }: Props) {
+  const stageId = (await params).stageId;
+  const levelNumber = (await params).levelNumber;
   const level = levels.find(
     (level) =>
-      level.stageId === Number(params.stageId) &&
-      level.levelNumber === Number(params.levelNumber),
+      level.stageId === Number(stageId) &&
+      level.levelNumber === Number(levelNumber),
   );
 
   // const profile = await getProfile();
@@ -54,7 +56,7 @@ async function RewardPage({
           width={925}
           height={660}
         />
-        <Game level={level as Levels} stageId={Number(params.stageId)} />
+        <Game level={level as Levels} stageId={Number(stageId)} />
       </div>
     </main>
   );
