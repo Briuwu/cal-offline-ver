@@ -19,10 +19,8 @@ import {
 import { toast } from "sonner";
 import { Input } from "@/components/ui/input";
 import { useRouter } from "next/navigation";
-import { useProfile } from "@/lib/use-profile";
 
 export const CharacterSelect = () => {
-  const { addProfile } = useProfile();
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
   const [username, setUsername] = useState("");
@@ -44,20 +42,6 @@ export const CharacterSelect = () => {
     }
     startTransition(async () => {
       try {
-        // await createProfile(selectedCharacter, username);
-        addProfile({
-          id: Math.floor(Math.random() * 1001),
-          userId: "user_2p3VhQClLCESdH3a5wCYQnY5xho",
-          username: username,
-          email: "test@email.com",
-          coins: 10000,
-          xp: 0,
-          currentLevel: 1,
-          selectedCharacter: selectedCharacter,
-          created_at: "2024-11-19 05:42:43.600434",
-          avatar:
-            "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18yampRMlNBa2hMUTNEbnZ6b2Q2a0hpVTlxOTQiLCJyaWQiOiJ1c2VyXzJwM1ZoUUNsTENFU2RIM2E1d0NZUW5ZNXhobyJ9",
-        });
         toast.success("Character confirmed successfully");
         router.push("/stages");
       } catch (error) {

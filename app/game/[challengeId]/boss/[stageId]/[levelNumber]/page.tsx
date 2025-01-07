@@ -23,13 +23,15 @@ async function BossPage({ params }: Props) {
   const levelNumber = (await params).levelNumber;
 
   const level = levels.find(
-    (level) => level.stageId === stageId && level.levelNumber === levelNumber,
+    (level) =>
+      level.stageId === Number(stageId) &&
+      level.levelNumber === Number(levelNumber),
   );
 
   // const profile = await getProfile();
 
   if (!level) {
-    redirect("/stages");
+    return null;
   }
 
   if (level.type !== "boss") {
